@@ -22,14 +22,14 @@ Dashboard 1 gives an overview of the company, showing overall growth in riders o
 Trends that I have identified from Dashboard 1:
 * The majority of users are ones with memberships
 * Non members tend to take longer trips compared to members.  Non member trips are roughly 1.5 times longer than members. This could be explained that members use it more frequently, therefore resulting in shorter trips. 
-* The greatest time of the day for usage appears to be 6 and 7 pm, which may help you to understand your target customer.  I would have assumed that it would be more popular during the day with tourists, but the data suggests that it is most used around dinner time or maybe coming home from work/school.  
+* The time of the day for the greatest usage appears to be 6 and 7 pm, which may help you to understand your target customer.  I assumed that it would be more popular during the day with tourists, but the data suggests that it is most used around dinner time or coming home from work/school.  
 * There seemed to be only a slightly greater preference of electric bikes to classic bikes in members.  I was surpised that for the whole year, there were 25,388 more rides taken by members with electric bikes than classic.  That is only a 9% difference in preference between the two bike options. 
 * Weekday useage was greater than usage on the weekends, supporting the theory that the typical customer uses it more after work or school versus sigh seeing on the weekeds. Tuesdays, Wednesday and Thursdays were the busiest days during the summer and fal months, which shifts to Mondays, Tuesdays and Wednesdays in the Winter and Spring. 
 
 ## Dashboard #2
 Dashboard 2 give an indepth look at the most popular staring and ending points.  This is clearly shown with horizontal bar charts which clearly display the names of the stations, and then an interactive map which highlights the most popular starting stations sorted by size and color.  This map is also interacitve, allowing the user to select different quarters to see how the trends shift depending on the seasons.
 
-Trends that I have identifies from Dashboard 2: 
+Trends that I have identified from Dashboard 2: 
 * The most popular starting stations are around hoboken terminal, suggesting that many riders are using citi bike with ther commutes. This aligns with the most popular/usage hours from dashboard 1. 
 * Stations around waterfront and business districts ranked high in popularity, supporting that commuters are active in this area for both business and pleasure (dinner or other leisure activities after work).
 * Stations at Hamilton Park, Bergen Ave and 11 St & Washington are near neighborhoods that suggest people in this area are using the bikes for short everyday trips.  
