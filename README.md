@@ -2,11 +2,6 @@
 Here is the link to my citi bike tableau dashboard:
 https://public.tableau.com/app/profile/megan.iyer/viz/CitiBikeProject_17455636239950/Dashboard2?publish=yes
 
-## References
-* I received help from my tutor Angel Mila with my Tableau sheets- specifically the map
-* Video to help me make my dashboard: https://www.youtube.com/watch?v=X5Fl8_zjt0U
-* Chat GPT for debugging errors in code
-
 ## Citi Bike Analysis
 I created 2 dashboards to evaluate and analyze the data from the 4 quarters of 2024.  
 * Quarter 1 contains data from January 2024
