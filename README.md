@@ -1,32 +1,57 @@
-# Tableau_project
-Here is the link to my citi bike tableau dashboard:
-https://public.tableau.com/app/profile/megan.iyer/viz/CitiBikeProject_17455636239950/Dashboard2?publish=yes
+# 🚲 Citi Bike Usage Analysis – Tableau Project
 
-## Citi Bike Analysis
-I created 2 dashboards to evaluate and analyze the data from the 4 quarters of 2024.  
-* Quarter 1 contains data from January 2024
-* Quarter 2 contains data from April 2024
-* Quarter 3 contains data from July 2024 
-* Quarter 4 contains data from October 2024
+**🔗 View Interactive Dashboard:**  
+[https://public.tableau.com/app/profile/megan.iyer/viz/CitiBikeProject_17455636239950/Dashboard2?publish=yes](https://public.tableau.com/app/profile/megan.iyer/viz/CitiBikeProject_17455636239950/Dashboard2?publish=yes)
 
-I chose to analyze these months to provide an overview of the year as to see trends during the different seasons.  Since the location's weather varies greatly depending on the time of year, I wanted to see how this affects riders and usage.  
+## 📈 Overview
 
-## Dashboard #1
-Dashboard 1 gives an overview of the company, showing overall growth in riders over the year, who are our  main customers and their usage, which days of the week are most popular, which product is more prefered by customers (electric bike vs classic) and finnaly what hours of the days are most popular.  This dashboards give a nice overall view of the trends in usage and popularity, allowing anyone the ability to pin point most profitable items.  This dashboard is completely, interactive, allowing the user to select and isolate data by quarter or stacking quarters.  
+This project analyzes Citi Bike data across four quarters of 2024:  
+- **Q1:** January  
+- **Q2:** April  
+- **Q3:** July  
+- **Q4:** October  
 
-Trends that I have identified from Dashboard 1:
-* The majority of users are ones with memberships
-* Non members tend to take longer trips compared to members.  Non member trips are roughly 1.5 times longer than members. This could be explained that members use it more frequently, therefore resulting in shorter trips. 
-* The time of the day for the greatest usage appears to be 6 and 7 pm, which may help you to understand your target customer.  I assumed that it would be more popular during the day with tourists, but the data suggests that it is most used around dinner time or coming home from work/school.  
-* There seemed to be only a slightly greater preference of electric bikes to classic bikes in members.  I was surpised that for the whole year, there were 25,388 more rides taken by members with electric bikes than classic.  That is only a 9% difference in preference between the two bike options. 
-* Weekday useage was greater than usage on the weekends, supporting the theory that the typical customer uses it more after work or school versus sigh seeing on the weekeds. Tuesdays, Wednesday and Thursdays were the busiest days during the summer and fal months, which shifts to Mondays, Tuesdays and Wednesdays in the Winter and Spring. 
+These months were selected to highlight seasonal trends in ridership, as usage patterns are heavily influenced by weather and time of year. I built two interactive dashboards in Tableau to visualize key trends and support data-driven decisions.
 
-## Dashboard #2
-Dashboard 2 give an indepth look at the most popular staring and ending points.  This is clearly shown with horizontal bar charts which clearly display the names of the stations, and then an interactive map which highlights the most popular starting stations sorted by size and color.  This map is also interacitve, allowing the user to select different quarters to see how the trends shift depending on the seasons.
+---
 
-Trends that I have identified from Dashboard 2: 
-* The most popular starting stations are around hoboken terminal, suggesting that many riders are using citi bike with ther commutes. This aligns with the most popular/usage hours from dashboard 1. 
-* Stations around waterfront and business districts ranked high in popularity, supporting that commuters are active in this area for both business and pleasure (dinner or other leisure activities after work).
-* Stations at Hamilton Park, Bergen Ave and 11 St & Washington are near neighborhoods that suggest people in this area are using the bikes for short everyday trips.  
+## 📊 Dashboard 1: Company Overview
 
-These trends in usage patterns can be helpful identifying areas to increase bike availability, upkeep and potentially increase advertising to faciliate more membership growth and retention. 
+This dashboard provides a high-level summary of ridership patterns and user behavior. It includes:
+
+- Growth in overall ridership by quarter  
+- Comparison of **member vs. non-member** usage  
+- Ride duration trends  
+- Most popular **days of the week**  
+- Preferred bike types (**electric vs. classic**)  
+- Peak hours of use  
+
+**Key Insights:**
+- Members make up the majority of rides  
+- Non-members take longer trips (1.5x longer on average)  
+- Peak usage occurs around **6–7 PM**, indicating commuting patterns  
+- Slight preference for electric bikes among members (~9% higher usage)  
+- Weekdays (Tues–Thurs) see the highest ridership in warmer months; shifts slightly in colder months  
+- The dashboard is fully interactive, allowing filtering by quarter
+
+---
+
+## 📍 Dashboard 2: Station Trends
+
+This dashboard focuses on the **most popular start and end stations**, presented through:
+- Horizontal bar charts  
+- An interactive map with filtering by quarter  
+
+**Key Insights:**
+- Stations near **Hoboken Terminal** and **waterfront business districts** are most active, reinforcing commuter usage  
+- Neighborhood stations like **Hamilton Park**, **Bergen Ave**, and **11 St & Washington** suggest frequent use for short local trips  
+- Seasonal shifts in start station popularity are visible and filterable
+
+---
+
+## 🛠️ Tools & Skills Used
+- Tableau (Interactive Dashboards, Map Visualization)  
+- Data Analysis & Trend Identification  
+- Data Storytelling  
+- Seasonal Segmentation  
+- Customer Behavior Analysis
